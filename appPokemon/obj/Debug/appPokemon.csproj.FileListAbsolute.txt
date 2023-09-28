@@ -1,0 +1,7 @@
+C:\Users\lealk\source\repos\appPokemon\appPokemon\bin\Debug\appPokemon.exe.config
+C:\Users\lealk\source\repos\appPokemon\appPokemon\bin\Debug\appPokemon.exe
+C:\Users\lealk\source\repos\appPokemon\appPokemon\bin\Debug\appPokemon.pdb
+C:\Users\lealk\source\repos\appPokemon\appPokemon\obj\Debug\appPokemon.csproj.AssemblyReference.cache
+C:\Users\lealk\source\repos\appPokemon\appPokemon\obj\Debug\appPokemon.csproj.CoreCompileInputs.cache
+C:\Users\lealk\source\repos\appPokemon\appPokemon\obj\Debug\appPokemon.exe
+C:\Users\lealk\source\repos\appPokemon\appPokemon\obj\Debug\appPokemon.pdb
